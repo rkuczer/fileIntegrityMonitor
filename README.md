@@ -5,5 +5,14 @@
 
 ## Architecture
 
-![design](https://imgur.com/Jneg3Sk)<br>
+![Architecture Diagram](https://i.imgur.com/Jneg3Sk.png)
 
+Here is the architecure of the file monitor which explains how it works from a visual perspective.
+
+## In action
+
+From the script we can see that when the file is altered after a baseline is created the user is alerted.
+
+![Architecture Diagram](https://i.imgur.com/t4FHDNs.png)
+
+![Architecture Diagram](https://i.imgur.com/AIRvjnR.png)
